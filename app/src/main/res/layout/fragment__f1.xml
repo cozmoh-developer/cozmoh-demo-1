@@ -7,16 +7,4 @@
     android:background="@drawable/back"
     tools:context=".Fragment_F1">
 
-    <!-- TODO: Update blank fragment layout
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="224dp"
-        android:layout_height="140dp"
-        android:text="Fragment 1" />-->
-
-
 </FrameLayout>
